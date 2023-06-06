@@ -1,8 +1,8 @@
-# HR Attrition Analysis Project--Interactive dashboard to 
+# HR Attrition Analysis Project--Interactive dashboard 
 
 This project aims to analyze employee attrition in an HR dataset using Tableau. It provides insights into the factors contributing to employee turnover and helps in understanding attrition patterns within the organization.
 
-**Table of Contents**
+##**Table of Contents**
 
 Project Overview
 Data Source
@@ -12,7 +12,7 @@ Project Structure
 Contributing
 Credits
 
-**Project Overview**
+##**Project Overview**
 The HR Attrition Analysis project leverages Tableau's data visualization capabilities to explore and analyze employee attrition. It includes a comprehensive set of visualizations and interactive dashboards that provide insights into various aspects of attrition, such as:
 
 Overall attrition rate
