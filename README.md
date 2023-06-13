@@ -65,7 +65,6 @@ The HR Attrition Analysis dataset includes information on employee characteristi
 Please refer to the Kaggle dataset page for more details and any specific usage terms or licenses associated with the dataset.
 
 
-![HR ANALYTICS DASHBOARD](https://github.com/razana95/TABLEAU_WORKBOOK/assets/99320575/ed101cbf-76bb-499f-9ce5-d63a5686d796)
-![HR ANALYTICS DASHBOARD](https://github.com/razana95/TABLEAU_WORKBOOK/assets/99320575/a50d6b04-4a6c-42a1-b511-06b8b7b36b26)
 
+![HR ANALYTICS DASHBOARD](https://github.com/razana95/TABLEAU_WORKBOOK/assets/99320575/4fa3e9ad-d2a4-48fb-b7dc-64fbb4628560)
 
